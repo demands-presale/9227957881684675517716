@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714324371851",
+    "project_id": "wall-it-wallpapers",
+    "storage_bucket": "wall-it-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714324371851:android:85dceef6f1f1b4774da78e",
+        "android_client_info": {
+          "package_name": "com.seonjusan.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714324371851-d9u9ujskc5p2elv24a2tg2sh23m009k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvZ4NYKeOp2NYm9sAGS2hl0XQB99CbNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714324371851-d9u9ujskc5p2elv24a2tg2sh23m009k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
